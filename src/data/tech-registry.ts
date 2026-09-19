@@ -114,6 +114,7 @@ const TECH_REGISTRY = {
   'DigitalOcean': { color: '#0080FF' },
   'Nginx': { color: '#009639' },
   'Linux': { color: '#FCC624' },
+  'macOS': { color: '#FCC624' },
 
   // ===== CSS & UI =====
   'Tailwind CSS': { color: '#06B6D4' },
