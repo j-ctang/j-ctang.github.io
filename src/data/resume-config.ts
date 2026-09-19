@@ -55,6 +55,9 @@ export const resumeConfig: ResumeConfig = {
         { name: 'Hugging Face' },
         { name: 'LeRobot' },
         { name: 'ManiSkill' },
+        { name: 'VLA Models' },
+        { name: 'ACT' },
+        { name: 'Diffusion Policy' },
       ],
     },
     {
@@ -62,6 +65,7 @@ export const resumeConfig: ResumeConfig = {
       type: 'badges',
       items: [
         { name: 'Linux' },
+        { name: 'macOS' },
       ],
     },
   ],
